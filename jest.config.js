@@ -1,4 +1,4 @@
-module.exports = async () => {
+ module.exports = async () => {
     return {
       verbose: false,
       testTimeout: 30000,
